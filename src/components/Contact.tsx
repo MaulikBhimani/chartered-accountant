@@ -36,7 +36,7 @@ const Contact = () => {
                       <label htmlFor="name" className="text-sm font-medium">
                         Full Name
                       </label>
-                      <Input id="name" placeholder="Akash Bhimani" />
+                      <Input id="name" placeholder="Name" />
                     </div>
                     <div className="space-y-2">
                       <label htmlFor="email" className="text-sm font-medium">
