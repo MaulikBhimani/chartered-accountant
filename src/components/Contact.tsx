@@ -81,10 +81,10 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-2">Phone</h3>
-                    <p className="text-muted-foreground">+91 8160748541</p>
-                   
                     {/* <p className="text-muted-foreground">+91 8160748541</p> */}
-                    {/* <p className="text-muted-foreground">+1 (555) 987-6543</p> */}
+                   
+                    <p className="text-muted-foreground">+91 8160748541</p> 
+                   <p className="text-muted-foreground">+1 (555) 987-6543</p>
                   </div>
                 </div>
               </CardContent>
