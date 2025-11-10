@@ -36,13 +36,13 @@ const Contact = () => {
                       <label htmlFor="name" className="text-sm font-medium">
                         Full Name
                       </label>
-                      <Input id="name" placeholder="John Doe" />
+                      <Input id="name" placeholder="Akash Bhimani" />
                     </div>
                     <div className="space-y-2">
                       <label htmlFor="email" className="text-sm font-medium">
                         Email Address
                       </label>
-                      <Input id="email" type="email" placeholder="john@example.com" />
+                      <Input id="email" type="email" placeholder="example@gmail.com" />
                     </div>
                   </div>
                   
@@ -81,8 +81,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-2">Phone</h3>
-                    <p className="text-muted-foreground">+1 (555) 123-4567</p>
-                    <p className="text-muted-foreground">+1 (555) 987-6543</p>
+                    <p className="text-muted-foreground">+91 8160748541</p>
+                    {/* <p className="text-muted-foreground">+1 (555) 987-6543</p> */}
                   </div>
                 </div>
               </CardContent>
@@ -96,8 +96,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-2">Email</h3>
-                    <p className="text-muted-foreground">info@caservices.com</p>
-                    <p className="text-muted-foreground">support@caservices.com</p>
+                    <p className="text-muted-foreground">aakashbhimani@gmail.com</p>
+                    {/* <p className="text-muted-foreground">support@caservices.com</p> */}
                   </div>
                 </div>
               </CardContent>
@@ -111,8 +111,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-2">Office</h3>
-                    <p className="text-muted-foreground">123 Business Street</p>
-                    <p className="text-muted-foreground">Suite 500, City, ST 12345</p>
+                    {/* <p className="text-muted-foreground"></p> */}
+                    <p className="text-muted-foreground">Rajkot </p>
                   </div>
                 </div>
               </CardContent>
