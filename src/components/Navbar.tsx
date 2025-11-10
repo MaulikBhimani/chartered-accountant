@@ -50,7 +50,7 @@ const Navbar = () => {
           {/* Logo */}
           <button
             onClick={() => scrollToSection("home")}
-            className="text-2xl font-display font-bold text-primary hover:text-accent transition-colors"
+            className="text-2xl font-display font-bold text-yellow-500"
           >
             CA Akash Bhimani
           </button>
