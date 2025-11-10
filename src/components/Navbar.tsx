@@ -52,7 +52,7 @@ const Navbar = () => {
             onClick={() => scrollToSection("home")}
             className="text-2xl font-display font-bold text-primary hover:text-accent transition-colors"
           >
-            CA Services
+            CA Akash Bhimani
           </button>
 
           {/* Desktop Navigation */}
