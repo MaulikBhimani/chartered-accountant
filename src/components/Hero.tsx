@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Award, Shield, TrendingUp } from "lucide-react";
-
+import WhatsAppButton from "./WhatsAppButton";
 const Hero = () => {
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);
@@ -43,15 +43,16 @@ const Hero = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4 animate-fade-in" style={{ animationDelay: '0.6s' }}>
-            <Button 
+            {/* <Button 
               size="lg" 
               variant="secondary" 
               className="group text-lg px-8 py-6 shadow-glow hover:scale-105 transition-all duration-300"
-              onClick={() => scrollToSection("contact")}
+              onClick={WhatsAppButton}
             >
-              Get Started
+              Get In Touch
               <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
-            </Button>
+            </Button> */}
+             <WhatsAppButton />
             <Button 
               size="lg" 
               variant="outline" 
