@@ -3,7 +3,7 @@ import React from "react";
 const WhatsAppButton = () => {
   // Your business or personal WhatsApp number (with country code, no + or spaces)
   const phoneNumber = "+919157256735"; // Example: for +1 (555) 123-4567
-  const message = "👋 Welcome! How can we help you today?";
+  const message = "Hello! I'm interested in your chartered accountant services.";
 
   // WhatsApp link
   const whatsappLink = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;

@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Mail, Phone, MapPin, Clock } from "lucide-react";
+import WhatsAppButton from "./WhatsAppButton";
 
 const Contact = () => {
   return (
@@ -134,6 +135,10 @@ const Contact = () => {
                 </div>
               </CardContent>
             </Card>
+            
+            <div className="text-center">
+              <WhatsAppButton />
+            </div>
           </div>
         </div>
       </div>
