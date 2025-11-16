@@ -3,34 +3,44 @@ import { Calculator, FileText, TrendingUp, Building2, PiggyBank, Users } from "l
 
 const services = [
   {
-    icon: Calculator,
-    title: "Accounting & Bookkeeping",
-    description: "Comprehensive accounting services to keep your financial records accurate and up-to-date.",
+    icon: FileText,
+    title: "GST Registration",
+    description: "Complete GST registration services to get your business compliant with tax regulations.",
   },
   {
-    icon: FileText,
-    title: "Tax Planning & Filing",
-    description: "Strategic tax planning and efficient filing to minimize liabilities and maximize returns.",
+    icon: Calculator,
+    title: "GST Return Filing",
+    description: "Accurate and timely GST return filing to ensure compliance and avoid penalties.",
   },
   {
     icon: TrendingUp,
-    title: "Financial Advisory",
-    description: "Expert guidance on financial strategy, investments, and business growth opportunities.",
+    title: "GST Amendments",
+    description: "Professional GST amendment services for corrections and updates to your filings.",
   },
   {
     icon: Building2,
-    title: "Business Consulting",
-    description: "Professional consulting services to optimize operations and drive business success.",
+    title: "Income Tax Return (ITR) Filing",
+    description: "Expert ITR filing services to maximize your tax savings and ensure compliance.",
   },
   {
     icon: PiggyBank,
-    title: "Audit & Assurance",
-    description: "Thorough auditing services ensuring compliance and financial transparency.",
+    title: "TDS & TCS Return Filing",
+    description: "Comprehensive TDS and TCS return filing services for businesses and individuals.",
+  },
+  {
+    icon: Calculator,
+    title: "Accounting",
+    description: "Professional accounting services to maintain accurate financial records.",
   },
   {
     icon: Users,
-    title: "Payroll Management",
-    description: "Streamlined payroll processing and employee benefits administration.",
+    title: "PAN/TAN/MSME Registration",
+    description: "Complete registration services for PAN, TAN, and MSME certifications.",
+  },
+  {
+    icon: FileText,
+    title: "Professional Tax",
+    description: "Professional tax registration and compliance services for your business.",
   },
 ];
 
@@ -43,10 +53,10 @@ const Services = () => {
             Our Services
           </div>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Comprehensive Financial Solutions
+            Our Professional Services
           </h2>
           <p className="text-lg text-muted-foreground">
-            We provide a full range of accounting and financial services designed to support your business at every stage
+            Complete GST and Income Tax solutions with expert accounting services for your business success
           </p>
         </div>
 

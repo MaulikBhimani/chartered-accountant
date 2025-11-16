@@ -31,15 +31,15 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center space-y-8">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass-card mb-6 animate-fade-in">
             <Award className="w-4 h-4 text-accent" />
-            <span className="text-sm text-white/90">Certified Chartered Accountants</span>
+            <span className="text-sm text-white/90">Nikhil Amreliya - Certified Professional</span>
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight animate-fade-in" style={{ animationDelay: '0.2s' }}>
-            Expert Financial Solutions for Your Business Growth
+            SHREE CONSULTANCY
           </h1>
           
           <p className="text-xl md:text-2xl text-white/80 max-w-2xl mx-auto animate-fade-in" style={{ animationDelay: '0.4s' }}>
-            Professional accounting, tax planning, and financial consulting services tailored to your success
+            YOUR TRUSTED PARTNER FOR GST & INCOME TAX SOLUTION
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4 animate-fade-in" style={{ animationDelay: '0.6s' }}>
