@@ -6,9 +6,9 @@ const Footer = () => {
       <div className="container px-4">
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div>
-            <h3 className="text-2xl font-display font-bold mb-4">CA Services</h3>
+            <h3 className="text-2xl font-display font-bold mb-4">SHREE CONSULTANCY</h3>
             <p className="text-primary-foreground/80 mb-4">
-              Your trusted partner in financial success and business growth.
+              Nikhil Amreliya - Your trusted partner for GST, Income Tax, and business registration services.
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 rounded-full bg-accent/20 flex items-center justify-center hover:bg-accent/30 transition-colors">
@@ -29,10 +29,11 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Services</h4>
             <ul className="space-y-2 text-primary-foreground/80">
-              <li><a href="#" className="hover:text-accent transition-colors">Accounting</a></li>
-              <li><a href="#" className="hover:text-accent transition-colors">Tax Planning</a></li>
-              <li><a href="#" className="hover:text-accent transition-colors">Financial Advisory</a></li>
-              <li><a href="#" className="hover:text-accent transition-colors">Audit Services</a></li>
+              <li><a href="#" className="hover:text-accent transition-colors">GST Registration</a></li>
+              <li><a href="#" className="hover:text-accent transition-colors">GST Return Filing</a></li>
+              <li><a href="#" className="hover:text-accent transition-colors">Income Tax Filing</a></li>
+              <li><a href="#" className="hover:text-accent transition-colors">Accounting Services</a></li>
+              <li><a href="#" className="hover:text-accent transition-colors">Business Registration</a></li>
             </ul>
           </div>
 
@@ -58,7 +59,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-primary-foreground/20 pt-8 text-center text-primary-foreground/60">
-          <p>&copy; {new Date().getFullYear()} CA Services. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} SHREE CONSULTANCY. All rights reserved.</p>
         </div>
       </div>
     </footer>

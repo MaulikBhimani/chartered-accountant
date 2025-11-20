@@ -17,12 +17,12 @@ const About = () => {
   };
 
   const highlights = [
-    "Certified Chartered Accountants with proven expertise",
-    "Personalized service tailored to your unique needs",
-    "Up-to-date knowledge of tax laws and regulations",
-    "Transparent pricing with no hidden fees",
-    "Commitment to accuracy and confidentiality",
-    "Strategic advice for long-term financial success",
+    "Expert GST registration, return filing & amendments",
+    "Professional Income Tax return filing with maximum refunds",
+    "Complete TDS & TCS return filing solutions",
+    "Comprehensive accounting and bookkeeping services",
+    "PAN, TAN, and MSME registration services",
+    "Transparent pricing with timely service delivery",
   ];
 
   return (
@@ -34,13 +34,13 @@ const About = () => {
               About Us
             </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-6">
-              Your Trusted Partner in Financial Success
+              SHREE CONSULTANCY - Your Tax & Registration Expert
             </h2>
             <p className="text-lg text-muted-foreground mb-6">
-              With over 15 years of experience in accounting and financial consulting, we've helped hundreds of businesses and individuals achieve their financial goals.
+              Led by Nikhil Amreliya, SHREE CONSULTANCY specializes in GST registration, GST return filing, GST amendments, Income Tax return filing, TDS & TCS return filing, accounting services, and comprehensive business registration services including PAN, TAN, and MSME registration.
             </p>
             <p className="text-lg text-muted-foreground mb-8">
-              Our team of certified professionals stays ahead of industry changes to provide you with the most current and effective solutions. We believe in building lasting relationships based on trust, integrity, and exceptional service.
+              We provide accurate, timely, and professional services to help your business stay compliant with all tax regulations. Our expertise ensures maximum refunds and penalty-free compliance for all your tax, accounting, and registration needs.
             </p>
             <Button size="lg" className="shadow-elegant hover:scale-105 transition-all duration-300">
               Learn More About Us

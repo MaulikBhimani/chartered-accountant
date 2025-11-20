@@ -1,9 +1,9 @@
 {
-  "name": "chartered-accountant",
+  "name": "shreeconsultancy",
   "version": "0.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://MaulikBhimani.github.io/chartered-accountant",
+  "homepage": "https://maulikbhimani.github.io/shreeconsultancy",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

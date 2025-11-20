@@ -84,8 +84,7 @@ const Contact = () => {
                     <h3 className="font-semibold mb-2">Phone</h3>
                     {/* <p className="text-muted-foreground">+91 8160748541</p> */}
                    
-                    <p className="text-muted-foreground">+91 8160748541</p> 
-                   <p className="text-muted-foreground">+1 (555) 987-6543</p>
+                    <p className="text-muted-foreground">+91 8758485159</p>
                   </div>
                 </div>
               </CardContent>
@@ -100,7 +99,7 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold mb-2">Email</h3>
                     {/* <p className="text-muted-foreground">aakashbhimani@gmail.com</p> */}
-                    <p className="text-muted-foreground">support@caservices.com</p>
+                    <p className="text-muted-foreground">nikhilamareliya@gmail.com</p>
                   </div>
                 </div>
               </CardContent>
@@ -115,7 +114,7 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold mb-2">Office</h3>
                     {/* <p className="text-muted-foreground"></p> */}
-                    <p className="text-muted-foreground">Rajkot </p>
+                    <p className="text-muted-foreground">The Accord, Opp. Park Avenue, Near Arjun Jewellers, Nana Mauva Road, Rajkot - 360004</p>
                   </div>
                 </div>
               </CardContent>
